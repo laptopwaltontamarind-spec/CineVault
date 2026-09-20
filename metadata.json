@@ -1,0 +1,6 @@
+{
+  "name": "CineVault - Legal Movie Streaming & Download",
+  "description": "Stream and download legally licensed, open-source, and public-domain movies in HD quality without registration.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
